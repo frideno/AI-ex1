@@ -1,2 +1,2 @@
 # AI-ex1
-ex1 in AI class - gps navigation using graph searches
+AI GPS navigation - graph search algorithms implementation - made as AI class exercise
